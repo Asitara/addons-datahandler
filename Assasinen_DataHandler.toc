@@ -1,0 +1,23 @@
+## Interface: 40300
+## Title: |cff69ccff<Assasinen> DataHandler|r
+## Author: Asitara[Nashara] Gilde: <Assasinen>.
+## Notes: |TEnvironments\Stars\Nexus_data_curtain_blur:180:120|t
+## Version: 1.0
+## SavedVariables: ADH_DB, ADH_TEST
+
+embeds.xml
+Libs\json\json.lua
+
+
+Assasinen_DataHandler.lua
+
+
+Modules\char_stats.lua
+Modules\char_currencies.lua
+Modules\char_achievements.lua
+Modules\char_titles.lua
+Modules\char_companions.lua
+Modules\char_inventory.lua
+Modules\char_professions.lua
+Modules\char_talents.lua
+Modules\char_reputations.lua
